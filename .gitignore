@@ -1,0 +1,6 @@
+.aider*
+.env
+dist
+.yalc*
+yalc*
+node_modules
